@@ -6,8 +6,7 @@ permalink: /book/
 
 <br>
 
-<h1>50 Things Your Real Estate Agent Should Tell You But Probably Won't</h1>
-<br>
+<h2>50 Things Your Real Estate Agent Should Tell You But Probably Won't</h2>
 
 <p><a href="https://www.amazon.com/Things-Estate-Agent-Should-Probably-ebook/dp/B081K6QPSY" target="_blank"><img src="/img/EbookCover.jpg"></a></p>
 
