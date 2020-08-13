@@ -13,5 +13,4 @@ permalink: /book/
 
 <p>I know. You watch every hit show on HGTV and now you want to be - a homeowner, a selller, an investor, a flipper, a landlord, even a realtor! But before you head down to Lowes, place a bid on a house, or take your licensing exam you may want to take a moment to get some no non-sense, first hand education from an experienced professional in ALL facets of the buying, selling, and investing process! If you have questions, look no further for honest answers and BONUS tips from an award winning real estate professional and industry insider.</p>
 
-<p><a href="https://bannerseason.com/J2SGEH" target="_blank"><img src="/img/50Things.pdf"></a></p>
-
+<p><a href="https://bannerseason.com/J2SGEH" target="_blank">PDF book Here</a></p>
