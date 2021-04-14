@@ -17,7 +17,7 @@ youtube_code: IknYTVMFDQo
 
 {% include excerpt.html %}
 
-Today I’m here with Christal Johnson at the Leeward Settlement in Turks & Caicos. She owns Airbnb properties here in the DMV, so she knows all the rules that people should follow when it comes to renting an Airbnb, especially when it comes to leaving one:
+Today I’m here with my wife Christal Johnson at the Leeward Settlement in Turks & Caicos. She owns Airbnb properties here in the DMV, so she knows all the rules that people should follow when it comes to renting an Airbnb, especially when it comes to leaving one:
 
 1. **Clean up after yourself**. When you’re leaving, treat the property like you would a friends’ home and clean up all your trash.
 2. **Put the towels in the wash**. If you really want to be a great guest, you could get the towels started in the washing machine so that the owners can easily turn over the property for the next guest.
