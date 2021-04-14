@@ -14,6 +14,8 @@ youtube_code: 8rQk6h-B51o
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 In today's video, I’m coming to you live from Aruba to show you the three places you have to eat in and the menu items you need to try.
 
 The first is Yemanja, located downtown behind the Renaissance Hotel. My favorite meal here is the skirt steak. When you come here, ask for Kevin, then ask Kevin for the skirt steak. **Check it out at 0:50 in the video above.**
