@@ -18,6 +18,8 @@ youtube_code: Ef-YznItMW4
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 God brings people into our lives sometimes to remind us of those who’ve been in our lives before, and I recently had a conversation with one of those people, Mrs. Taylor, that I want to share with you.
 
 My team and I helped Mrs. Taylor sell a home, and she reminds me of the women in my family: the love, hugs, spirit, and energy. As we were working for her, that was always in my heart and on my mind. This is someone’s grandmother, someone’s aunt, someone’s loved one. Those things mean a lot to us. **Mrs. Taylor is now glad to be a part of our family**, and we plan on calling her from time to time to check up on her.
