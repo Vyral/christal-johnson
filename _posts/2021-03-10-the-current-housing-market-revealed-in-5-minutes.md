@@ -18,6 +18,8 @@ youtube_code: qaOvMipsr3g
 ---
 {% include youtube.html %}
 
+{% include excerpt.html %}
+
 When it comes to real estate, there are three types of markets. The first, which we’re in right now, is a seller’s market (and a hyper-seller’s market to boot). The second is a balanced market, and the third is a buyer’s market.&nbsp;
 
 **Being in a seller’s market means people are willing to pay more money than what a home is worth,**&nbsp;and there are several reasons why this is the case right now. Low interest rates and low inventory are a few examples. We recently listed a home in Manassas for $450,000 that ended up selling for $480,000. Oftentimes, people think we go straight from a seller’s market to a buyer’s market, but we actually go to a balanced market first before we can transition to a buyer’s market.
