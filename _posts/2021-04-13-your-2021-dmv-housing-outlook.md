@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your 2021 DMV Housing Outlook
-date: 2021-04-14 17:25:14
+date: 2021-04-13 17:25:00
 tags:
   - Market Update
   - Real Estate
