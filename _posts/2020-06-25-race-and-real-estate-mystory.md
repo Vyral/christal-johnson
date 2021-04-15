@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Race and Real Estate #MyStory'
-date: 2021-04-15 20:16:07
+date: 2020-06-25 20:16:00
 tags:
 excerpt: >-
   In light of recent events, I want to share my story of how I got into real
