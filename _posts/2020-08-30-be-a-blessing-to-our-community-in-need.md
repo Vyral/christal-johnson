@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Be a Blessing to our Community in Need
-date: 2021-04-15 20:19:26
+date: 2020-08-30 20:19:00
 tags:
 excerpt: >-
   Help us make a difference in our community by donating supplies to those in
