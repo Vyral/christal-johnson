@@ -17,7 +17,7 @@ youtube_code: fRQAzdh2HwQ
 
 {% include excerpt.html %}
 
-I recently had the pleasure of making a guest appearance on the Virtual Hope Speaker Series with Nicole Cox, and today I’ll share our discussion with you. I was able to tell the story of my career. We were able to cover a variety of topics and important themes, including how I overcame dyslexia, how I got started in real estate, and how I stay motivated.&nbsp;
+I recently had the pleasure of making a guest appearance on the Virtual Hope Speaker Series with Nicole Cox, and today I’ll share our discussion with you. I was able to tell the story of my career. We covered a variety of topics and important themes, including how I overcame dyslexia, how I got started in real estate, and how I stay motivated.&nbsp;
 
 **Cited below for your convenience are timestamps that will direct you to various points in the video. Feel free to watch it in its entirety or use these timestamps to browse specific points at your leisure:&nbsp;**
 
