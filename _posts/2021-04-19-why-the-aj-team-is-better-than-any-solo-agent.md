@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Emile Davis on Selling His Home With Our Team
+title: Why The AJ Team Is Better Than any Solo Agent
 date: 2021-04-19 09:00:00
 tags:
   - Real Estate
