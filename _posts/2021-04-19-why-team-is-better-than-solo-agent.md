@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why The AJ Team Is Better Than any Solo Agent
+title: Why Team Is Better Than Solo Agent
 date: 2021-04-19 09:00:00
 tags:
   - Real Estate
