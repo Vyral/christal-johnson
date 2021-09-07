@@ -21,14 +21,14 @@ youtube_code: Ob0XAr05KJg
 
 {% include excerpt.html %}
 
-Today in my market update, I wanted to try something a little different. Not only am I going to give you a comprehensive market update in under three minutes, but I’ll also be donating $10 to charity every time I say “um”. Without further ado, let’s get started\!
+Today in my market update, I wanted to try something a little different. Not only am I going to give you a comprehensive market update in under three minutes, but I’ll also be donating $10 to charity every time I say “um.” Without further ado, let’s get started\!
 
-**It looks like our market is slowing.** If you’re worried about this, don’t be. The rate of growth we were experiencing before was unsustainable. Meanwhile, our current slower rate of growth could stick around for a long time.&nbsp;
+**It looks like our market is slowing.** If you’re worried about this, don’t be. The rate of growth we were experiencing before was unsustainable. However, our current, slower rate of growth could stick around for a long time.&nbsp;
 
 {% include pullquote.html %}
 
-A good way to see where the market is going is to look at days on market. This stat tracks how long it takes **from putting your home on the market to having it put under contract.** At 1:45 in my video, I have stats pulled up showing days on market for different types of properties in our area. As you can see, the average days on market has been increasing across the board.&nbsp;
+Looking at the days on market is a great way to see where the market is going. This stat tracks how long it takes **from putting your home on the market to having it put under contract.** At 1:45 in the video above, I have stats pulled up showing days on market for different types of properties in our area. As you can see, the average days on market has been increasing across the board.&nbsp;
 
 A few things you should watch out for are new builder inventory, where people are moving to, whether this slowdown is seasonal or not, and homes that can’t sell or have to drop their price. **These are all indicators of long-term trends in the market.** For example, if more homes are being built, we could see our inventory shortage turn around.&nbsp;
 
-In the end, I ended up saying “um” six times in my video, but $60 towards a good cause is hardly a bad thing. If you have any questions about today’s topic or anything else, please reach out to me via phone or email. If you have the dream, we have the address.
+In the end, I said “um” six times in my video, but $60 towards a good cause is hardly a bad thing. If you have any questions about today’s topic or anything else, please reach out to me via phone or email. If you have the dream, we have the address.
