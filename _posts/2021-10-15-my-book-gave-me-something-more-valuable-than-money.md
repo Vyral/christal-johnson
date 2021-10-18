@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/christal-johnson-ss-yt.jpg
-youtube_code: d4x6ceTAi9s
+youtube_code: LHfkoks3IjA
 ---
 {% include youtube.html %}
 
