@@ -22,9 +22,9 @@ There’s a listing by a real estate agent in Oklahoma that’s currently gettin
 
 Here’s the crazy thing: The home went under contract in one day, and the listing has close to 40,000 views on Zillow\! That listing got me thinking about a few things we agents need to keep in mind:
 
-**1\. Be confident.** You need to be confident in yourself and your product. (Especially if you’re writing a description like that.)
+**1\. Be confident.** You need to be confident in yourself and your product (Especially if you’re writing a description like that).
 
-**2\. Know your audience.** This agent was selling a house under $200,000, and likely the person who’s buying that property will relate to that type of language. The agent knew his audience and wasn’t afraid to speak to the people who would be most interested in that property.&nbsp;
+**2\. Know your audience.** This agent was selling a house under $200,000, and the person who’s buying that property will likely relate to that type of language. The agent knew his audience and wasn’t afraid to speak to the people who would be most interested in that property.&nbsp;
 
 {% include pullquote.html %}
 
