@@ -24,7 +24,7 @@ A lot of places talk about opportunity without going into specifics, but that’
 
 **2\. Fatigued buyers.** If you tried to buy a home six months ago and were frustrated with how competitive things were, now may be the time to hop back in. Interest rates remain low, but competition has begun to slow down.&nbsp;
 
-**3\. Movers.** If you are looking to move to a cheaper or different area like Raleigh, Tampa, or Texas, you could sell your home for a ton of money relative to where you’re moving to. You can then use that money to find a fantastic home.&nbsp;
+**3\. Relocating.** If you are looking to move to a cheaper or different area like Raleigh, Tampa, or Texas, you could sell your home for a ton of money relative to where you’re moving to. You can then use that money to find a fantastic home.&nbsp;
 
 {% include pullquote.html %}
 
