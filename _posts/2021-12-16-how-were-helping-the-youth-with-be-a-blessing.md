@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How We’re Helping the Youth With “Be a Blessing
+title: How We’re Helping the Youth With “Be a Blessing"
 date: 2021-12-16 00:00:00
 tags:
   - Market Update
@@ -28,7 +28,7 @@ Our “Be a Blessing” initiative is in honor of Megan and her life, and we are
 
 3:15—Why unaccompanied youths are a growing and troubling trend at the school
 
-4:50—Our Be a Blessing goals for 2021 and how you can help us
+4:50—Our "Be a Blessing" goals for 2021 and how you can help us
 
 6:00—How we’re paying it forward to Erin and the kids she wants to help
 
@@ -38,4 +38,4 @@ Our “Be a Blessing” initiative is in honor of Megan and her life, and we are
 
 10:20—Wrapping things up
 
-If you have any questions for Erin or myself, don’t hesitate to reach out via phone or email today. I look forward to hearing from you, and I hope you accept the challenge to help make this season a little brighter for those who need it.
+If you have any questions for Erin or me, don’t hesitate to reach out via phone or email today. I look forward to hearing from you, and I hope you accept the challenge to help make this season a little brighter for those who need it.
