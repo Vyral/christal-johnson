@@ -11,14 +11,14 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/christal-johnson-ss-email.jpg
+youtube_alternate_image: /uploads/christal-johnson-ss-yt-1-1.jpg
 youtube_code: lc2ao_XI3OA
 ---
 {% include youtube.html %}
 
 {% include excerpt.html %}
 
-I’m delighted to be joined by someone who is not only a great friend but a great community advocate. Erin Hancock is a social worker and guidance counselor at Freedom High School, and she’s here with me today to talk about one of our dear friends and clients, Megan Ratliffe.&nbsp;
+I’m delighted to be joined by someone who is not only a great friend but a great community advocate. Erin Hancock is a social worker and guidance counselor at Freedom High School, and she’s here with me today to talk about one of our dear friends and clients, Megan Ratliffe.
 
 Our “Be a Blessing” initiative is in honor of Megan and her life, and we are excited to talk to Erin about how we can help her name live on by helping those in our community who are in need.
 
