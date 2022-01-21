@@ -19,7 +19,7 @@ youtube_code: q1lLKCg7iJA
 
 Today we’re going to talk about the investment rental market. A good buddy of mine sent me an article covering why there’s never been a better time to be a landlord. That’s funny because if you look in the news, there are a lot of different opinions floating around. I think the truth is somewhere in between, so let’s talk about why that is.
 
-**You can watch the full episode above, or you can skip to each section using the timestamps provided below:&nbsp;**
+**You can watch the full episode above, or you can skip to each section using the timestamps provided:&nbsp;**
 
 0:00 — Introducing today’s topic
 
@@ -27,11 +27,13 @@ Today we’re going to talk about the investment rental market. A good buddy of 
 
 1:47 — The results of this pressure
 
-2:36 — Not everyone is built to be a landlord3:10 — You have to have reserves
+2:36 — Not everyone is built to be a landlord
+
+3:10 — You have to have reserves
 
 4:18 — It’s not just about cash flow
 
-5:00 — It’s a great opportunity to think about&nbsp;
+5:00 — It’s a great opportunity to consider
 
 5:37 — Wrapping up
 
