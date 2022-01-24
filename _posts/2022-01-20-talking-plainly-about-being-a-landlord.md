@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Talking Plainly About Being a Landlord
+title: Landlordin' 101
 date: 2022-01-20 00:00:00
 tags:
   - Real Estate
