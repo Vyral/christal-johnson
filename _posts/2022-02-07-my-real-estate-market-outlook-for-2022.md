@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/christal-johnson-ss-2022-yt-2.jpg
-youtube_code: SzC--13sTNU
+youtube_code: NqP8knlXIP4
 ---
 {% include youtube.html %}
 
