@@ -10,8 +10,8 @@ excerpt: >-
   act now.
 enclosure:
 pullquote: >-
-  It’s critical to get a headstart so that you can be fully prepared for today’s
-  market.
+  It’s critical to get a head-start so that you can be fully prepared for
+  today’s market.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -29,6 +29,8 @@ Many buyers in today’s market are waffling over whether they should buy a home
 **2\. Getting a head start in this market is mandatory.** We are dealing with arguably one of the most complex real estate markets we’ve dealt with over the last four or five years; we’re still hot, but conditions are changing. It’s critical to get a head-start so that you can be fully prepared.
 
 **3\. Buying now gives you time to recalibrate.** Many people who start out in this market think they want one thing, but later realize they need time to figure things out before they’re comfortable moving forward. If you start the process earlier, you’ll have more time to recalibrate before the buying frenzy starts.
+
+{% include pullquote.html %}
 
 **4\. You can avoid the frenzy.** Many people are thinking about buying homes, whether they’re selling their old ones to buy new or they’re making the jump to homeownership for the first time. If you want to avoid the fierce competition the spring market will present, you need to be ready before the market activity begins to pick up momentum.
 
