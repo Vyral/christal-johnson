@@ -8,7 +8,8 @@ tags:
 excerpt: >-
   If you’re thinking of waiting until spring to buy, here are five reasons to
   act now.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Christal+Johnson/5+Reasons+to+Move+Before+Spring.mp4
 pullquote: >-
   It’s critical to get a head start so that you can be fully prepared for
   today’s market.
