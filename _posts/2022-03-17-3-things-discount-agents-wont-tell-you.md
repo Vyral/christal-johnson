@@ -27,12 +27,12 @@ A discount agent is an agent that’s advertising a discount to attract your bus
 
 {% include pullquote.html %}
 
-In some markets, discount agents have value. If 20 people are clamoring for your home and there’s nothing else on the market, it's a much easier decision to choose one. When we aren’t in a hyper seller's market like we’re in now, you need a local expert on your side. If you had an important contract or had to go to court, you wouldn’t hire LegalZoom for that. You would hire a high-level lawyer to protect you. Similarly, you need a high-level agent in this complex real estate market.
+In some markets, discount agents have value. If 20 people are clamoring for your home and there’s nothing else on the market, it's much easier to choose one. When we aren’t in a hyper seller's market like we’re in now, you need a local expert on your side. If you had an important contract or had to go to court, you wouldn’t hire LegalZoom for that. You would hire a high-level lawyer to protect you. Similarly, you need a high-level agent in this complex real estate market.
 
-**If you are considering a discount broker, here are a couple of questions that I would always ask them:**
+**If you are considering a discount broker, here are a few questions that I would always ask them:**
 
 * How many investment properties do you own?
-* What do you invest in yourself?
+* What do you invest in?
 * Why did you choose your discount agency?
 
 Asking these questions will give you a great idea if the discount agent you’re considering is the right fit. If you have any questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
