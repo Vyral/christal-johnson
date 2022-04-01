@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image:
+youtube_alternate_image: /uploads/hear-it-from-our-buyers-yt.jpg
 youtube_code: 26NlxoNKJV8
 ---
 {% include youtube.html %}
@@ -24,6 +24,6 @@ Today I’m having a quick visit with NAME and NAME about their experience worki
 
 NAME agrees: *“We really enjoyed the house-buying process. I’ve heard it can be anxiety-filled, but I didn’t feel that.”*
 
-**Thanks to these great clients for trusting us to help them buy their first property.** We look forward to helping them in the future.&nbsp;
+**Thanks to these great clients for trusting us to help them buy their first property.** We look forward to helping them in the future.
 
 If you have any questions about buying or selling a home, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
