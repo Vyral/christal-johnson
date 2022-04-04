@@ -26,4 +26,4 @@ NAME agrees: *“We really enjoyed the house-buying process. I’ve heard it can
 
 **Thanks to these great clients for trusting us to help them buy their first property.** We look forward to helping them in the future.
 
-If you have any questions about buying or selling a home, don’t hesitate to reach out via phone or email. I look forward to hearing from you soon.
+If you have any questions about buying or selling a home, don’t hesitate to reach out via phone or email. I'd love to hear from you.
