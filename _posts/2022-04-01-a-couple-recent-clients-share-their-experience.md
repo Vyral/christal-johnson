@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A Couple Recent Clients Share Their Experience
+title: A Couple of Recent Clients Share Their Story
 date: 2022-04-01 00:00:00
 tags:
   - Home Buyer Tips
