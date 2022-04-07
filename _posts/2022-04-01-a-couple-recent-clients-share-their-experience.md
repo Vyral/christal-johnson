@@ -18,11 +18,11 @@ youtube_code: PTyo1O8OA-c
 
 {% include excerpt.html %}
 
-Today I’m having a quick visit with NAME and NAME about their experience working with my team:
+Today I’m having a quick visit with Mr. and Mrs. Robinson about their experience working with my team:
 
-*“I’ve never bought a home before. That’s a little bit scary. It was nice to have all my questions answered. It was very easy, and I felt very confident in the information I was getting,”* said NAME.
+*“I’ve never bought a home before. That’s a little bit scary. It was nice to have all my questions answered. It was very easy, and I felt very confident in the information I was getting.”*&nbsp;
 
-NAME agrees: *“We really enjoyed the house-buying process. I’ve heard it can be anxiety-filled, but I didn’t feel that.”*
+*"We really enjoyed the house-buying process. I’ve heard it can be anxiety-filled, but I didn’t feel that.”*
 
 **Thanks to these great clients for trusting us to help them buy their first property.** We look forward to helping them in the future.
 
