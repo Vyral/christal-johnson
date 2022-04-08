@@ -6,7 +6,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Here’s what a couple of clients thought about their home-buying experience.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Christal+Johnson/A+Couple+of+Recent+Clients+Share+Their+Story.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
@@ -20,7 +21,7 @@ youtube_code: PTyo1O8OA-c
 
 Today I’m having a quick visit with Mr. and Mrs. Robinson about their experience working with my team:
 
-*"I’ve never bought a home before. That’s a little bit scary. It was nice to have all my questions answered. It was very easy, and I felt very confident in the information I was getting.”*&nbsp;
+*"I’ve never bought a home before. That’s a little bit scary. It was nice to have all my questions answered. It was very easy, and I felt very confident in the information I was getting.”*
 
 They mentioned: *"We really enjoyed the house-buying process. I’ve heard it can be anxiety-filled, but I didn’t feel that.”*
 
