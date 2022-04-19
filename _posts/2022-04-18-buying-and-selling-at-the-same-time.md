@@ -29,7 +29,7 @@ Once you decide which of these four options is best for you, there are a few thi
 
 Next, talk with your lender. You may be able to write a non-contingent offer. If you can, it will give you a huge leg up over the competition and make the buying and selling process much easier.&nbsp;
 
-You may also want to consider a rent-back agreement. When you sell your home, you can negotiate with your buyer to let you rent your property back for a set period of time. This should give you time to shop for your new home from the comfort of your old one.&nbsp;
+You may also want to consider a rent-back agreement. When you sell your home, you can negotiate with your buyer to rent your property back for a set period of time. This should give you time to shop for your new home from the comfort of your old one.&nbsp;
 
 Finally, understand that you’re buying and selling in the same market. **The same advantages you have as a seller are the disadvantages you’ll face as a buyer.** Make sure you work with an experienced agent who understands your needs and how to meet them.&nbsp;
 
