@@ -7,7 +7,8 @@ tags:
   - Home Buyer Tips
   - Real Estate
 excerpt: Here’s what you need to know about buying and selling at the same time.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Christal+Johnson/Buying+and+Selling+at+the+Same+Time.mp4
 pullquote: Non-contingent offers have a big advantage.
 enclosure_type: video/mp4
 enclosure_time:
