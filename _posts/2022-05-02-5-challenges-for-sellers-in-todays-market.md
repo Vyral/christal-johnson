@@ -18,7 +18,7 @@ youtube_code: 567LEbNGua4
 
 {% include excerpt.html %}
 
-As you all know, we’ve been in a seller’s market for the better part of four years. How long will this trend continue? I don’t know, but I think the end is creeping up. However, when I say it’s a seller’s market, most people get the wrong idea. Some sellers think they’ll put their home on the market, it’ll sell for heaps of money, and everything will be awesome. In reality, there are specific challenges that sellers have in this market, and I want to talk about five of them.
+As you all know, we’ve been in a seller’s market for the better part of four years. How long will this trend continue? I don’t know, but I think the end is creeping up. However, when I say it’s a seller’s market, most people get the wrong idea. Some sellers think they’ll put their home on the market, it’ll sell for heaps of money, and everything will be awesome. In reality, there are specific challenges that sellers have in this market, and I want to talk about the five main ones.
 
 **You can watch the full video above or skip to each section using the timestamps provided:**
 
@@ -26,9 +26,9 @@ As you all know, we’ve been in a seller’s market for the better part of four
 
 1:12 — Problem No. 1: Appraisals
 
-2:11 — Problem No. 2: Contracts are falling out
+2:11 — Problem No. 2: Buyers are backing out of contracts
 
-3:07 — Problem No. 3: You’re buying in the same market that you’re selling
+3:07 — Problem No. 3: You’re buying in the same market in which you're selling
 
 3:40 — Problem No. 4: Delays
 
