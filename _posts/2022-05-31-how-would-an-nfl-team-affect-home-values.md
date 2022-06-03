@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Would an NFL Team Affect Home Values?
+title: Will the New Washington Commanders Stadium Affect Home Values?
 date: 2022-05-31 00:00:00
 tags:
   - Real Estate
@@ -30,7 +30,7 @@ While many people are thinking about residential home values increasing, commerc
 
 If you’re concerned about home prices in our county, don’t worry about whether or not an NFL team will move here. **Our area has inherent value.** Prince William County’s average home price is around $560,000, and nearby counties aren’t far behind. There’s a reason why most of my investment portfolio is in Prince William County, so if you’re waiting for an NFL team to buy here, I would go ahead and make the move.
 
-Considering this, should you wait for the Commanders to sell your home? I don’t think so. The question you should ask isn’t, “Will the Commanders come or not?” Instead, ask yourself, “Is my home ready to sell?” What are your plans for the next few years? **Renovations and structural improvements are what really build value—not NFL teams. **
+Considering this, should you wait for the Commanders to sell your home? I don’t think so. The question you should ask isn’t, “Will the Commanders come or not?” Instead, ask yourself, “Is my home ready to sell?” What are your plans for the next few years? \*\*Renovations and structural improvements are what really build value—not NFL teams. \*\*
 
 Interest rates are causing the market to slow slightly, but it’s still great for sellers. If you have a strong marketing plan and work with a great team, you can still get a fantastic deal for your home.
 
