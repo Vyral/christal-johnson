@@ -6,7 +6,8 @@ tags:
   - Real Estate
   - Market Update
 excerpt: If the Commanders move to our county, will home values increase?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Christal+Johnson/Will+the+New+Washington+Commanders+Stadium+Affect+Home+Values_.mp4
 pullquote: Don’t wait for the Commanders to sell your home.
 enclosure_type: video/mp4
 enclosure_time:
