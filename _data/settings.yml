@@ -7,8 +7,8 @@ custom_links:
     url:
 show_custom_links_new_tab: true
 custom_links_new_tab:
-  - title: My Book
-    url: /book/
+  - title: FREE Audiobook
+    url: https://whatyouragentwonttellyou.paperform.co/
 
 client:
   name: Allen Johnson
