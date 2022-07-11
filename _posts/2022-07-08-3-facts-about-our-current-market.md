@@ -18,7 +18,7 @@ youtube_code: HQlrAZ8c4MA
 
 {% include excerpt.html %}
 
-Real estate has undergone a number of changes lately, making many buyers and sellers nervous about their plans. Today let’s discuss what you need to know about the current market so you can be ready to act.
+Real estate has undergone several changes lately, making many buyers and sellers nervous about their plans. Today let’s discuss what you need to know about the current market so you can be ready to act.
 
 First, understand that **real estate is hyperlocal**. The national media has been talking quite a bit about the market, but those national trends may not reflect what’s going on in our area. A market just 10 miles away might have a different experience than ours.
 
