@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 3 Facts About Our Current Market
+title: Everyone Needs These 3 Market Tips
 date: 2022-07-08 00:00:00
 tags:
   - Real Estate
@@ -10,8 +10,8 @@ enclosure:
 pullquote: The decisions you make now can impact you even 10 years down the road.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image: /uploads/today-s-market-johnson-yt.jpg
+use_youtube_image: false
+youtube_alternate_image: /uploads/07-12-johnson-youtube.jpg
 youtube_code: sdHVmuQwaUA
 ---
 {% include youtube.html %}
