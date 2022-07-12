@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/today-s-market-johnson-yt.jpg
-youtube_code: HQlrAZ8c4MA
+youtube_code: sdHVmuQwaUA
 ---
 {% include youtube.html %}
 
