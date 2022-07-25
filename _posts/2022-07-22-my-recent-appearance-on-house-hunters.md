@@ -13,7 +13,8 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/house-hunters-johnson-yt-2.jpg
 youtube_code: https://vimeo.com/720726026
 ---
-{% include youtube.html %}
+<iframe src="https://player.vimeo.com/video/720726026?h=faaa60fa2a" width="640" height="362" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+<p><a href="https://vimeo.com/720726026">HGTV - Season 211, Episode 13: Sorority Sisters in Northern Virginia</a> from <a href="https://vimeo.com/ajteamrealty">AJ Team LLC</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 {% include excerpt.html %}
 
