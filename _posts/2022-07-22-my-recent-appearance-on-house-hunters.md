@@ -13,8 +13,7 @@ use_youtube_image: true
 youtube_alternate_image: /uploads/house-hunters-johnson-yt-2.jpg
 youtube_code:
 ---
-<iframe src="https://player.vimeo.com/video/720726026?h=faaa60fa2a" width="640" height="362" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
-<p>
+<iframe src="https://player.vimeo.com/video/720726026?h=faaa60fa2a" width="640" height="362" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
 
 {% include excerpt.html %}
 
@@ -24,4 +23,4 @@ Have you ever heard of a TV show called “House Hunters”? I’m just kidding�
 
 I hope you enjoy seeing how Cherise came to her decision. In the meantime, don’t hesitate to call or email me with any questions. I am always willing to help\!
 
-**Interested in being on TV?** Would you like to be our next guest on House Hunters? &nbsp;If you are looking to move and think you would be great on television, **[let us know here\!](https://aj-team-tv.paperform.co/){: target="_blank" rel="noopener"}**
+Would you like to be our next guest on House Hunters? &nbsp;If you are looking to move and think you would be great on television, **[let us know here\!](https://aj-team-tv.paperform.co/){: target="_blank" rel="noopener"}**
