@@ -23,6 +23,4 @@ Have you ever heard of a TV show called “House Hunters”? I’m just kidding�
 
 I hope you enjoy seeing how Cherise came to her decision. In the meantime, don’t hesitate to call or email me with any questions. I am always willing to help\!
 
-**Interested in being on TV?**
-
-Would you like to be our next guest on House Hunters? &nbsp;If you are looking to move and think you would be great on television, **[let us know here\!](https://aj-team-tv.paperform.co/){: target="_blank" rel="noopener"}**
+**Interested in being on TV?** Would you like to be our next guest on House Hunters? &nbsp;If you are looking to move and think you would be great on television, **[let us know here\!](https://aj-team-tv.paperform.co/){: target="_blank" rel="noopener"}**
