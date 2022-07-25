@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/house-hunters-johnson-yt.jpg
-youtube_code: 9WNd-K9slto
+youtube_code: https://vimeo.com/720726026
 ---
 {% include youtube.html %}
 
