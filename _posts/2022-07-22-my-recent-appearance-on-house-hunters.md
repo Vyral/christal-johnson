@@ -13,7 +13,7 @@ use_youtube_image: false
 youtube_alternate_image: /uploads/house-hunters-johnson-yt-2.jpg
 youtube_code:
 ---
-<iframe src="https://player.vimeo.com/video/720726026?h=faaa60fa2a" width="640" height="362" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen=""></iframe>
+<iframe title="vimeo-player" src="https://player.vimeo.com/video/733714181?h=8c0f1ee6db" width="640" height="360" frameborder="0" allowfullscreen></iframe>
 
 {% include excerpt.html %}
 
