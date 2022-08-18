@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'How Sellers Can Still Come Out on Top '
+title: The New Rules of Home Selling in Today's Weird Market
 date: 2022-08-05 00:00:00
 tags:
   - Home Seller Tips
