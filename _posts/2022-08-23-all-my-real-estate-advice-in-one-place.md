@@ -25,7 +25,7 @@ Luckily, that professional is me\! My book, “50 Things Your Real Estate Agent 
 
 ![](/uploads/cfbd2022b3f40a78e99c4c0b-1176x806.png){: width="1176" height="568"}
 
-The book is separated into eight easy-to-follow sections such as “How To Be a Smart Seller” and “Tackling Renovations and Repairs.” Each section has multiple chapters that cover specifics. For example, in the “Mastery of the Basics of Real Estate” section, there are chapters on finding your perfect piece of real estate, why you can’t time the market, how to get credit before you need credit, and more.
+The book is separated into eight easy-to-follow sections such as “How To Be a Smart Seller” and “Tackling Renovations and Repairs.” Each section has multiple chapters that cover specifics. For example, in the “Mastery of the Basics of Real Estate” section, there are chapters on finding your perfect piece of real estate, why you can’t time the market, how to get credit before you need credit, and more.&nbsp;
 
 **Excerpt from the “Buyer Beware” section:**
 
