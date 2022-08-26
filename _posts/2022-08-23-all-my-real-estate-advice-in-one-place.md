@@ -19,7 +19,7 @@ youtube_code: dCAHyk6QDk4
 
 {% include excerpt.html %}
 
-Do you watch a lot of HGTV and now want to buy or sell a home, invest in real estate, flip a house, or even become a real estate agent? Maybe you’re in the process of navigating one of these things but aren’t sure if you’re doing it right? Before you head to a hardware store, place a bid on a property, or study for your licensing exam, **you should get some no-nonsense education from an experienced real estate professional.**
+Do you watch a lot of HGTV and now want to buy or sell a home, invest in real estate, flip a house, or even become a real estate agent? Maybe you’re in the process of navigating one of these things but aren’t sure if you’re doing it right. Before you head to a hardware store, bid on a property, or study for your licensing exam, **you should get some no-nonsense education from an experienced real estate professional.**
 
 Luckily, that professional is me\! My book, “50 Things Your Real Estate Agent Should Tell You But Probably Won't,” discusses all the facets of buying, selling, managing, and investing in real estate. If you have questions or want a thorough education about how real estate works, look no further than my book, which contains honest answers and tips from me, an award-winning real estate agent and industry insider.
 
