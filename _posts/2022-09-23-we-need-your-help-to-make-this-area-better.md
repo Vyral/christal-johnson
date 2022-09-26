@@ -21,10 +21,10 @@ Today, I want to talk about our Be A Blessing mentoring program. You may have he
 
 We focus on teaching soft skills, which are things like how to shake hands, handle bullies, communicate, stay positive, and more. We focus on young males from fourth to ninth grade.&nbsp;
 
-We need more male mentors. We need people who have the ability and the heart to volunteer two hours a month to focus on helping our community. I heard a quote recently that resonated with me, and it says: “Volunteers don't necessarily have the time, but they have the heart.”&nbsp;
-
 {% include pullquote.html %}
 
-We're looking for people who have a heart for their community and want to help us with our mentoring program. We usually try to help on a Tuesday or Wednesday, right when the bell rings, so from 3:00 to 4:00 p.m. If you know anyone, whether it’s you or a friend, who could help us out, we’d be honored. We're just looking to be a blessing in our community.&nbsp;
+We need more male mentors. We need people who have the ability and the heart to volunteer two hours a month to focus on helping our community. I heard a quote recently that resonated with me, and it says: “Volunteers don't necessarily have the time, but they have the heart.”&nbsp;
+
+We're looking for people who have a heart for their community and want to help us with our mentoring program. We usually try to help on a Tuesday or Wednesday, right when the bell rings, so from 3 p.m. to 4 p.m. If you know anyone, whether it’s you or a friend, who could help us out, we’d be honored. We're just looking to be a blessing in our community.&nbsp;
 
 In conclusion, here is another quote that I love: “Volunteering is the ultimate exercise in democracy. You vote in elections once a year, but when you volunteer, you vote every day about the type of community you want to live in.” **We get an opportunity to create the type of community that we want to live in, and we want you to partner with us.** Call or email if you have any questions.
