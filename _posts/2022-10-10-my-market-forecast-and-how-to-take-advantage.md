@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Market Forecast and How To Take Advantage
+title: My Market Forecast
 date: 2022-10-10 00:00:00
 tags:
   - Real Estate
@@ -18,11 +18,11 @@ youtube_code: Fel0byaP7ck
 
 {% include excerpt.html %}
 
-Where do you think this constantly changing market is heading next? That can be a very tricky question to answer. I’m here today to tell you my forecast for the next six months and where I think the real estate opportunities will be. I predict that we will see inventory rise and interest rates stabilize in the near future. How can you take advantage of that? Well here are the six places I predict we will be seeing great opportunities:&nbsp;
+Where do you think this constantly changing market is heading next? That can be a very tricky question to answer. I’m here today to tell you my forecast for the next six months and talk about six real estate opportunities you can take advantage of in the near future: Well here are the six places I predict we will be seeing great opportunities:&nbsp;
 
 **1\. Listings with realistic sellers.** We are still in a market where good real estate that’s priced well will sell, so sellers with realistic expectations will succeed.&nbsp;
 
-**2\. Listings for buyers that need a little help.** If you are a buyer that needs help with the closing costs or buying down your rate, for example, you will have opportunities for deals with those things.&nbsp;
+**2\. Listings for buyers that need a little help.** If you are a buyer that needs help with the closing costs or buying down your rate you will have opportunities for deals with those things.&nbsp;
 
 **3\. Value-add properties.** This would be a house that needs some work to get where you want it. Buyers are starting to look more at homes like that.
 
@@ -34,4 +34,4 @@ Where do you think this constantly changing market is heading next? That can be 
 
 **6\. Properties from move-down sellers.** People who are retiring or relocating are doing so now while the market is still this way, so take advantage of the homes they are giving up.&nbsp;
 
-If you think you may fit into any of the boxes of those six opportunities or be interested in any of them, reach out to us so you can take advantage of this\! Call or email my team and I anytime, we look forward to hearing from you.&nbsp;
+If you think you fit into any of the boxes of those six opportunities or are interested in any of them, reach out to us so you can take advantage of this\! Call or email my team and I anytime, we look forward to hearing from you.&nbsp;
