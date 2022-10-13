@@ -1,6 +1,6 @@
 ---
 layout: post
-title: My Market Forecast
+title: Take Advantage of These Market Opportunities
 date: 2022-10-10 00:00:00
 tags:
   - Real Estate
@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/market-changes-johnson-yt.jpg
-youtube_code: Fel0byaP7ck
+youtube_code: 1BKk4cKVUlA
 ---
 {% include youtube.html %}
 
