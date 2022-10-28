@@ -11,7 +11,7 @@ pullquote: Pricing your home is a little trickier than it used to be a year ago.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/price-correctly-johnson-yt.jpg
+youtube_alternate_image: /uploads/2.jpg
 youtube_code: SscNxs2WuLk
 ---
 {% include youtube.html %}
