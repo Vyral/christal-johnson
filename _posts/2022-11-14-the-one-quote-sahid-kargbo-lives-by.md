@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Meet the Team: Sahid Kargbo'
+title: 'Meet the AJ Team: Sahid Kargbo'
 date: 2022-11-14 00:00:00
 tags:
   - Real Estate
