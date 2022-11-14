@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The One Quote Sahid Kargbo Lives By
+title: 'Meet the Team: Sahid Kargbo'
 date: 2022-11-14 00:00:00
 tags:
   - Real Estate
