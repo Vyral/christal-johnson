@@ -12,7 +12,7 @@ pullquote: >-
   rent out your property.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
+use_youtube_image: false
 youtube_alternate_image: /uploads/yt-sell-or-rent-home.jpg
 youtube_code: oL-zMaFpwWw
 ---
