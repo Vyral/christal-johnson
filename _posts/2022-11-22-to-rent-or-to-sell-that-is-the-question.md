@@ -1,6 +1,6 @@
 ---
 layout: post
-title: To Rent or To Sell, That Is the Question
+title: Should I Sell or Rent My Home?
 date: 2022-11-22 00:00:00
 tags:
   - Real Estate
