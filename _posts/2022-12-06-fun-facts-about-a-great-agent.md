@@ -17,7 +17,7 @@ youtube_code: 615asWaEDPA
 
 {% include excerpt.html %}
 
-We believe it’s important to know your agent, so today we are excited to tell you about one of our amazing agents, Josh Davis. He is a senior buyer agent on our team and has been with us since 2019.&nbsp;
+We believe it’s important to know your agent, so today we are excited to tell you about one of our amazing team members, Josh Davis. He is a senior buyer agent on our team and has been with us since 2019.&nbsp;
 
 Some fun facts about Josh are that he was born in Japan and owns a motorcycle. If he could tell his younger self one thing, it would be to have more fun; life isn’t as serious as you think. He doesn’t drink, but loves pizza, especially with sausage and pepperoni\!&nbsp;
 
