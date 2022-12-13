@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fun Facts About a Great Agent
+title: 'Meet the AJ Team: Josh Davis'
 date: 2022-12-06 00:00:00
 tags:
   - Real Estate
