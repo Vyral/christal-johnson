@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Meet the AJ Team: Josh Davis'
+title: Meet Josh Davis, Commercial and Residential Agent Leader of AJT
 date: 2022-12-06 00:00:00
 tags:
   - Real Estate
