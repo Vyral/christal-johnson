@@ -10,7 +10,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
-youtube_alternate_image: /uploads/alumni-johnson-yt-2.jpg
+youtube_alternate_image: /uploads/alumni-johnson-yt-2-1.jpg
 youtube_code: 52o5ksZl1Gk
 ---
 {% include youtube.html %}
