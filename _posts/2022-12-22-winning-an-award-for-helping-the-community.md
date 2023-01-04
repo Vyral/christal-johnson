@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Winning an Award for Helping the Community '
+title: AJ GMU Distinguished Alumni of the Year
 date: 2022-12-22 00:00:00
 tags:
   - Real Estate
