@@ -29,7 +29,7 @@ Ultimately, Dawn prefers country life to the city, but she loves helping people 
 
 While she loves the DMV, if she had to move somewhere else, it would have to be by Charlotte wine country, specifically Orange or Madison county.&nbsp;
 
-According to Dawn, the care we provide our clients is what sets our team apart. We serve our clients beyond their transactions so that they’re set up for the future. Dawn’s favorite part about real estate is that we educate people on how they can use their homes as a wealth-building device long-term.&nbsp;
+According to Dawn, the care we provide our clients is what sets our team apart. We serve our clients beyond their transactions so that they’re set up for the future. Dawn’s favorite part about real estate is that we educate people on how they can use their homes as&nbsp; wealth-building devices long-term.&nbsp;
 
 Actually, **Dawn is a licensed Realtor even though she works back of house.** That being said, she’s seen it all; whatever issue our clients have, she can help them.&nbsp;
 
