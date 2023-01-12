@@ -25,8 +25,6 @@ If she could tell her younger self one thing, it would be to listen more to what
 
 **{% include pullquote.html %}**
 
-&nbsp;
-
 Ultimately, Dawn prefers country life to the city, but she loves helping people find their dream locations no matter where they are. She loves lakes, but she isn’t sure if she’d like to live right on one.&nbsp;
 
 While she loves the DMV, if she had to move somewhere else, it would have to be by Charlotte wine country, specifically Orange or Madison county.&nbsp;
