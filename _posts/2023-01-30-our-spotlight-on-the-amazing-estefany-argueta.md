@@ -38,7 +38,7 @@ Today we’re excited to bring you this interview with Estefany Argueta. She is 
 
 **{% include pullquote.html %}**
 
-**Why our team?** We allow her to be herself. She is able to be creative, and we help her become a little bit better every single day.
+**Why our team?** We allow her to be herself. She can be creative, and we help her become a little bit better every single day.
 
 **What does she love about real estate?** She loves that there’s never a dull moment. There’s always a challenge she must overcome in using her story to make a difference in the community.
 
