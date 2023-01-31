@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Our Spotlight on the Amazing Estefany Argueta
+title: Meet Estefany Argueta, Buyer Specialist of AJT
 date: 2023-01-30 00:00:00
 tags:
   - Real Estate
