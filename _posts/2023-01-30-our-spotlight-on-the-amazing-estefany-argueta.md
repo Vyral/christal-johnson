@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Our Spotlight on the Amazing Estefany Argueta
+title: Meet Estefany Argueta, Buyer Specialist of AJT
 date: 2023-01-30 00:00:00
 tags:
   - Real Estate
   - Agent Spotlight
-excerpt: Enjoy this fun interview with Estefany Argueta, our listing coordinator.
+excerpt: Enjoy this fun interview with Estefany Argueta, our Buyer Specialist.
 enclosure:
 pullquote: >-
   Estefany is our listing coordinator and has been with the team for about a
