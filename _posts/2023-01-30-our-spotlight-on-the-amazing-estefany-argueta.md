@@ -20,7 +20,7 @@ youtube_code: cAsFkd2z57M
 
 {% include excerpt.html %}
 
-Today we’re excited to bring you this interview with Estefany Argueta. She is our wonderful listing coordinator and has been with the team for about a year.
+Today we’re excited to bring you this interview with Estefany Argueta. She was previously our wonderful listing coordinator for about a year and has newly transitioned into the role of Buyer Specialist!.
 
 **What are two things that people don’t know about her?** She has a ten-year-old sister, and she came to this country when she was 12.
 
