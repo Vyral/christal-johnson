@@ -19,7 +19,7 @@ client:
   name: Allen Johnson
   title:
   license_number:
-  about_markdown: >
+  about_markdown: >-
     AJ Team Realty is comprised of a team of local real estate professionals
     committed to selling some of the most desired homes in the Washington DC
     Metro Area. Selling these "right addresses" is the mission of AJ Team
@@ -32,7 +32,7 @@ client:
   phone_type:
   phone2:
   phone2_type:
-  email: info@AJTeamRealty.com
+  email: connect@AJTeamRealty.com
   url: http://AJTeamRealty.com
 forms:
   sitekey: 6LdDHNAaAAAAACPDqaABlYJMqT9NIn0JbFiKZz4i
