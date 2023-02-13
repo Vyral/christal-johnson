@@ -59,7 +59,7 @@ second_sidebar_CTA:
     CTA_text2: Search the entire MLS for your Washington DC home.
     CTA_link_text2: Search the MLS
     CTA_url2: >-
-      https://www.ajteamrealty.com/results-gallery/?county=36045%2C36041%2C36067%2C36081%2C36079%2C36118%2C36085&sort=importdate&status=A
+      https://www.ajteamrealty.com/results-gallery/?photo=1&sort=importdate&status=A%2CCS
 lender:
   show_section: false
   header_text: Preferred Lender
