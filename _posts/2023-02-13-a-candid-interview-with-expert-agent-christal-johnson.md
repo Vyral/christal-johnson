@@ -27,7 +27,7 @@ Today, I am thrilled to introduce myself to you all. I wear many hats here at th
 
 1:15 — One thing I would tell my younger self
 
-1:52 — Wine, Beer, or Liquor?
+1:52 — Wine, beer, or liquor?
 
 2:07 — Tacos or pizza?
 
