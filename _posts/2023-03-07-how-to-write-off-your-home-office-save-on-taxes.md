@@ -1,8 +1,9 @@
 ---
 layout: post
 title: How to Write Off Your Home Office & Save on Taxes
-date:
+date: 2023-03-06 09:00:00
 tags:
+  - Real Estate
 excerpt:
 enclosure:
 pullquote:
