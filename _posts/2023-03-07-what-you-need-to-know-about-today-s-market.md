@@ -40,4 +40,4 @@ The real estate market has been fluctuating a lot lately, and it can be hard to 
 
 5:00 — Wrapping up&nbsp;
 
-If you want more help navigating this market or are ready to buy or sell a home, please reach out! I have the knowledge and would love to help you. You can call or email me anytime, and I hope to hear from you soon.
+If you want more help navigating this market or are ready to buy or sell a home, please reach out! I have the knowledge and would love to help you. You can [call](tel:703-991-7900){: target="_blank" rel="noopener"} or [email me](mailto:connect@AJTeamRealty.com){: target="_blank" rel="noopener"} anytime, and I hope to hear from you soon.
