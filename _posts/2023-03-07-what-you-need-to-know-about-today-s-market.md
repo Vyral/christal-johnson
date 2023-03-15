@@ -5,7 +5,7 @@ date: 2023-03-07 00:00:00
 tags:
   - Real Estate
   - Market Update
-excerpt: Recent changes in the housing market affect both buyers and sellers.
+excerpt: Important tips for buyers and sellers in a challenging market.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -26,7 +26,7 @@ The real estate market has been fluctuating a lot lately, and it can be hard to 
 
 0:20 — Inventory is down and volume is up&nbsp;
 
-0:42 — Explaining volume&nbsp;
+0:42 — Explaining volume vs home value
 
 1:20 — Home values and days on market&nbsp;
 
@@ -34,9 +34,11 @@ The real estate market has been fluctuating a lot lately, and it can be hard to 
 
 2:44 — News that is a little more challenging&nbsp;
 
-3:17 — What buyers and sellers need to look for&nbsp;
+3:17 — Important tips for buyers and sellers
 
-4:36 — How we can help&nbsp;
+3:49 —&nbsp;Important info for homeowners with VA or FHA loans
+
+4:36 — How AJ Team can help you
 
 5:00 — Wrapping up&nbsp;
 
