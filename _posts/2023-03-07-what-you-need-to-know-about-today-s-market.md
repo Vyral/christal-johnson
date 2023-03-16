@@ -12,7 +12,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/important-information-johnson-yt.jpg
-youtube_code: pre8Kc3LpnA
+youtube_code: BReLrQKU5d8
 ---
 {% include youtube.html %}
 
@@ -36,7 +36,7 @@ The real estate market has been fluctuating a lot lately, and it can be hard to 
 
 3:17 — Important tips for buyers and sellers
 
-3:49 —&nbsp;Important info for homeowners with VA or FHA loans
+3:49 — Important info for homeowners with VA or FHA loans
 
 4:36 — How AJ Team can help you
 
