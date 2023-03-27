@@ -1,10 +1,10 @@
 ---
 layout: post
-title: My Recent Appearance on “House Hunters”
+title: My Appearance on “House Hunters”
 date: 2023-03-27 00:00:00
 tags:
   - Real Estate
-excerpt: I recently appeared on an episode of HGTV’s “House Hunters”!
+excerpt: I appeared on an episode of HGTV’s “House Hunters”!
 enclosure:
 pullquote:
 enclosure_type: video/mp4
@@ -17,7 +17,7 @@ youtube_code:
 
 {% include excerpt.html %}
 
-Have you ever heard of a TV show called “House Hunters”? I’m just kidding—of course you have! Recently, I had the privilege of appearing in an episode where I helped an old sorority sister of mine buy a home in the Northern Virginia/Richmond area. It was a wild ride (just like these episodes usually are), but it was a ton of fun.&nbsp;
+Have you ever heard of a TV show called “House Hunters”? I’m just kidding—of course you have! I had the privilege of appearing in an episode where I helped an old sorority sister of mine buy a home in the Northern Virginia/Richmond area. It was a wild ride (just like these episodes usually are), but it was a ton of fun.&nbsp;
 
 **Sherese was facing a choice that a lot of people are in today’s market.** Should she pay a premium for location? Should she expand her search area and find a better deal? Or should she skip the resale market altogether and go with a new build property? Each option has its pros and cons, and we worked through all of them together in this episode.&nbsp;
 
