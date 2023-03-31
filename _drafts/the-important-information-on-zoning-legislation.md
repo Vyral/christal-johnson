@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Important Information on Zoning Legislation
-date:
+date: 2023-03-31 00:00:00
 tags:
 excerpt:
 enclosure:
