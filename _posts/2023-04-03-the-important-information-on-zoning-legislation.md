@@ -1,11 +1,11 @@
 ---
 layout: post
-title: The Important Information on Zoning Legislation
+title: The Controversial Legislation Recently Passed
 date: 2023-04-03 00:00:00
 tags:
   - Real Estate
   - Market Update
-excerpt: While the new zoning laws are controversial, they won’t have much effect.
+excerpt: What does it mean and how does it impact home value?
 enclosure:
 pullquote:
 enclosure_type: video/mp4
