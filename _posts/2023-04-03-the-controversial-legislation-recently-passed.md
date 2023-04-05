@@ -11,7 +11,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/new-screenshot-template-yt.jpg
+youtube_alternate_image: /uploads/missing-middle-yt.png
 youtube_code: hHD4_OGuqZI
 ---
 {% include youtube.html %}
