@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Life, Love, and Real Estate: An Interview With My Dad'
+title: 'A Father''s Wisdom: Insights and Lessons from a Lifetime of Experience'
 date: 2023-05-05 10:00:00
 tags:
   - Real Estate
