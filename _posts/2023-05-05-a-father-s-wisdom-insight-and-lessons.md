@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'A Father''s Wisdom: Insights and Lessons from a Lifetime of Experience'
+title: Real Estate and Life Lessons From My Father (Full Interview)
 date: 2023-05-05 10:00:00
 tags:
   - Real Estate
