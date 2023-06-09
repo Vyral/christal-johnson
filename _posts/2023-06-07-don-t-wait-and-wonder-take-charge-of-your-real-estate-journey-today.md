@@ -20,7 +20,7 @@ youtube_code: N-Y1KA6abwo
 
 {% include excerpt.html %}
 
-Are you feeling lost in the midst of conflicting information about the housing market? Rest assured, you're not alone. Today, I want to share a secret that no one in the real estate industry wants you to know. The current state of the housing market is unlike anything we've ever experienced before. We're all navigating uncharted territory.
+Are you feeling lost in the midst of conflicting information about the housing market? Rest assured; you're not alone. Today, I want to share a secret that no one in the real estate industry wants you to know. The current state of the housing market is unlike anything we've ever experienced before. We're all navigating uncharted territory.
 
 One of the most perplexing aspects is **the paradox between low transaction levels and high interest rates.** Normally, these factors would indicate a recession. However, despite what you might see in the news, we're not in a recession. The housing market is exhibiting some unusual patterns that can leave anyone scratching their head.
 
