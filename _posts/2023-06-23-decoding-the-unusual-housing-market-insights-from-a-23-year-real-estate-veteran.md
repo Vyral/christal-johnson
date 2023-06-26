@@ -1,7 +1,7 @@
 ---
 layout: post
 title: >-
-  Decoding the Unusual Housing Market: Insights from a 23-Year Real Estate
+  Decoding the Unusual Housing Market: Insights From a 23-Year Real Estate
   Veteran
 date: 2023-06-23 10:00:00
 tags:
