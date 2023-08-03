@@ -8,7 +8,7 @@ tags:
   - Timing the Housing Market
 excerpt: The decision to buy a home depends on various personal and financial factors.
 enclosure:
-pullquote: Waiting for the "perfect" time to buy a home can be a never-ending cycle.
+pullquote: Waiting for the 'perfect' time to buy a home can be a never-ending cycle.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
