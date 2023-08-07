@@ -6,7 +6,7 @@ tags:
   - Real Estate
   - Home Buyer Tips
   - Timing the Housing Market
-excerpt: The decision to buy a home depends on various personal and financial factors.
+excerpt: The decision to buy a home depends on your personal and financial factors.
 enclosure:
 pullquote: Waiting for the 'perfect' time to buy a home can be a never-ending cycle.
 enclosure_type: video/mp4
