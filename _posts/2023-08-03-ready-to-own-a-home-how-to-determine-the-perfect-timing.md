@@ -12,7 +12,7 @@ pullquote: Waiting for the 'perfect' time to buy a home can be a never-ending cy
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/johnson.jpg
+youtube_alternate_image: /uploads/yt-aj.jpg
 youtube_code: yAFpAdjSuag
 ---
 {% include youtube.html %}
