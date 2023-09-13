@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Navigating Assumable Mortgages in Today's Real Estate Market
+title: How To Get a 3% Mortgage In a 7% World
 date: 2023-09-12 10:00:00
 tags:
   - Real Estate
