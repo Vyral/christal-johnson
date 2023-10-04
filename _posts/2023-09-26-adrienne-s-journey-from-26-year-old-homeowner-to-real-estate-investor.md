@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Adrienne''s Journey: From 26-Year-Old Homeowner to Real Estate Investor'
+title: How Our AJT Client Went From 26-Year-Old Homeowner to Real Estate Investor
 date: 2023-09-26 10:00:00
 tags:
   - Real Estate
