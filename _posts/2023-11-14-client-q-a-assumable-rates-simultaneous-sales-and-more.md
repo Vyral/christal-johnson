@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Client Q&A: Assumable Rates, Simultaneous Sales, and More'
+title: The Secret About How Our Clients Got a 3% Interest Rate?!?
 date: 2023-11-14 08:00:00
 tags:
   - Home Buyer Tips
@@ -11,7 +11,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/new-screenshot-template-15.jpg
-youtube_code: F4dqebADp1E
+youtube_code: en_Ly1dZ5dQ
 ---
 {% include youtube.html %}
 
