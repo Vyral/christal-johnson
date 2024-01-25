@@ -19,7 +19,7 @@ youtube_code: N8PnEbMQiAg
 
 Owning a home comes with a myriad of benefits, and among them are three significant tax advantages that could make a considerable difference in your financial picture. Let's delve into these tax benefits to help you make the most of your homeownership.
 
-**1\. Mortgage interest deduction.** In a time where interest rates are on the rise, your monthly mortgage payments might be a bit hefty. The silver lining, however, lies in the mortgage interest deduction. When it's time to file your tax return, you can rejoice in the fact that all the payments directed towards mortgage interest are deductible. The key here is to itemize deductions, allowing you to optimize your tax savings.
+**1\. Mortgage interest deduction.** In a time when interest rates are on the rise, your monthly mortgage payments might be a bit hefty. The silver lining, however, lies in the mortgage interest deduction. When it's time to file your tax return, you can rejoice in the fact that all the payments directed towards mortgage interest are deductible. The key here is to itemize deductions, allowing you to optimize your tax savings.
 
 **2\. Real estate and property tax deductions.** Just like mortgage interest, your property taxes are likely woven into your monthly housing costs. The good news is that, once again, you can benefit from deductions when you itemize. Real estate taxes and property taxes become eligible for deduction, providing you with additional financial relief come tax season.
 
