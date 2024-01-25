@@ -30,3 +30,7 @@ Owning a home comes with a myriad of benefits, and among them are three signific
 The tax benefits of owning a home can significantly contribute to your overall financial well-being. Whether you're in the market for a new home or assessing the affordability of your current one, don't overlook the impact these tax advantages can have on your bottom line. As you navigate the realms of homeownership, remember that understanding and leveraging these tax benefits can lead to a more financially sound future.
 
 Learn more about the full potential of your tax benefits to have a more financially sound future through homeownership. Don’t hesitate to call or email me, I’d be happy to guide you through the process.
+
+
+
+\*AJ Team Realty and its affiliates do not provide tax, legal or accounting advice. This material has been prepared for informational purposes only, and is not intended to provide, and should not be relied on for, tax, legal or accounting advice. You should consult your own tax, legal and accounting advisors before engaging in any transaction.
