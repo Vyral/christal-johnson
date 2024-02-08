@@ -1,6 +1,8 @@
 ---
 layout: post
-title: Fascinating Numbers Dominate the DMV Real Estate Market
+title: >-
+  Everything You Need to Know About the DMV Housing Market... In Less Than 4
+  Minutes
 date: 2024-02-05 08:00:00
 tags:
   - Market Update
