@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Look Beyond the Numbers When Moving
+title: Why We Decided to Move Anyway!
 date: 2024-05-16 07:00:00
 tags:
   - Real Estate
@@ -12,7 +12,7 @@ pullquote: >-
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/christal-johnson-template-2-1.jpg
+youtube_alternate_image: /uploads/christal-johnson-template-4-1.jpg
 youtube_code: jpi7weHU3rw
 ---
 {% include youtube.html %}
