@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Why We Decided to Move Anyway!
+title: Why We Decided to Give Up our 2.5% Mortgage Rate for a New House
 date: 2024-05-16 07:00:00
 tags:
   - Real Estate
