@@ -31,6 +31,4 @@ As real estate professionals, we believe that the more we invest in our communit
 
 5:19 — Wrapping up
 
-If you’d like to learn more about the Be a Blessing Foundation and our mission to support our community, reach out via call or email to join us in our efforts today!<br>
-
-{% include pullquote.html %}
+If you’d like to learn more about the Be a Blessing Foundation and our mission to support our community, reach out via call or email to join us in our efforts today!
