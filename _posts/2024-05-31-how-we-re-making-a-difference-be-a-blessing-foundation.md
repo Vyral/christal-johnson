@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'How We''re Making a Difference: Be a Blessing Foundation '
+title: 'How Our Real Estate Journey Led The Be A Blessing Foundation '
 date: 2024-05-31 07:00:00
 excerpt: Learn about the foundation and its mission to create positive change.
 enclosure:
