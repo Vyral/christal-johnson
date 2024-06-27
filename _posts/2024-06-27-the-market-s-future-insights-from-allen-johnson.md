@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'The Market''s Future: Insights from Allen Johnson'
-date:
+date: 2024-06-27 07:00:00
 excerpt: Discover the accuracy of Allen's market forecasts and what's next.
 enclosure:
 pullquote:
