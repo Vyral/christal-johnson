@@ -1,6 +1,8 @@
 ---
 layout: post
-title: The Hidden Truth About Construction Managers
+title: >-
+  Do I need an agent for new construction? Tips for working with your
+  Construction Manager.
 date: 2024-09-19 07:00:00
 tags:
   - Real Estate
