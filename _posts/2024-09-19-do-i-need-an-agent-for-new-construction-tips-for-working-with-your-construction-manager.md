@@ -4,6 +4,7 @@ title: >-
   Do I need an agent for new construction? Tips for working with your
   Construction Manager.
 date: 2024-09-19 07:00:00
+hidden: true
 tags:
   - Real Estate
 excerpt: Ask the right questions and make sure your home is built right!
