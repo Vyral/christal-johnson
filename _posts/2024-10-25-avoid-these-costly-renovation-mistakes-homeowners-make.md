@@ -20,7 +20,7 @@ youtube_code: NLWLGZV33Tk
 ---
 {% include youtube.html %}
 
-{% include excerpt.html %}Thinking about selling your home? Renovating for sale is very different from renovating for personal enjoyment, and not knowing the difference can cost you thousands. I've seen sellers invest in high-end upgrades only to find that buyers don’t care or plan to change them. The truth is, renovations that help sell a home fast aren't always the ones that add value. Knowing what matters can make or break your sale.
+{% include excerpt.html %}Thinking about selling your home? Renovating for sale is very different from renovating for personal enjoyment, and not knowing the difference can cost you thousands. I’ve seen sellers invest in high-end upgrades only to find that buyers don’t care or plan to change them. The truth is, renovations that help sell a home fast aren’t always the ones that add value. Knowing what matters can make or break your sale.
 
 **Renovating for buyers vs. yourself.** When you’re renovating to sell, you need to think about what appeals to buyers, not what you or your family like. A fresh coat of neutral paint or spruced-up landscaping can do wonders to speed up a sale, but it won’t necessarily increase your home’s value. On the other hand, smart updates to your kitchen and bathrooms tend to both add value and help your home sell faster. The key is finding the balance.
 
