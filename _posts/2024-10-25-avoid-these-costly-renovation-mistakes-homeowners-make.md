@@ -1,13 +1,13 @@
 ---
 layout: post
-title: Avoid These Costly Renovation Mistakes Homeowners Make
+title: Costly Renovation Mistakes Every Homeowner Should Avoid
 date: 2024-10-25 00:00:00
 tags:
   - Real Estate
   - Home Seller Tips
 excerpt: >-
   Making renovations based on current buyer trends instead of your personal
-  preference will net you a higher ROI
+  preference will net you a higher ROI.
 enclosure:
 pullquote: >-
   Your home is your biggest asset, and renovations are better enjoyed while you
