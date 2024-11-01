@@ -23,9 +23,7 @@ youtube_code: X5mXrbeq3eA
 
 The upcoming election in Alexandria is sparking conversations about the need for strong, experienced leadership on the city council. To discuss these critical issues, I sat down with John Chapman, a long-serving council member and Alexandria resident, to explore his vision for the city’s future.
 
-During our conversation, Chapman highlighted his decision not to run for mayor in favor of maintaining experienced leadership on the council. With Alexandria facing economic challenges, such as budget cuts, affordable housing, and infrastructure sustainability, Chapman believes seasoned leaders are crucial to guiding the city through these complex issues.
-
-<br>{% include pullquote.html %}
+During our conversation, Chapman highlighted his decision not to run for mayor in favor of maintaining experienced leadership on the council. With Alexandria facing economic challenges, such as budget cuts, affordable housing, and infrastructure sustainability, Chapman believes seasoned leaders are crucial to guiding the city through these complex issues.<br>{% include pullquote.html %}
 
 He aims to secure his position as vice mayor, which would mark a historic moment with two African-Americans in council leadership.
 
