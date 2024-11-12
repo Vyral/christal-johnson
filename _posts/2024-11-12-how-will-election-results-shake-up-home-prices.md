@@ -1,6 +1,6 @@
 ---
 layout: post
-title: How Will Election Results Shake Up Home Prices?
+title: How will Trumps election affect the DMV Housing Market?!?
 date: 2024-11-12 07:00:00
 tags:
   - Real Estate
