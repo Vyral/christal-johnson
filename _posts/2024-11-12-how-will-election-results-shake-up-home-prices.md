@@ -21,7 +21,7 @@ youtube_code: 8JBV6gKoFNk
 
 {% include excerpt.html %}
 
-You've probably asked yourself "How will the election affect the housing market?" I’ve been watching trends and drawing on what I know about real estate—both from a bird’s-eye view (macro) and right here in the DMV (micro). Today, I am going to give you a clear picture of what could be around the corner for homeowners and investors alike.
+You’ve probably asked yourself “How will the election affect the housing market?” I’ve been watching trends and drawing on what I know about real estate—both from a bird’s-eye view (macro) and right here in the DMV (micro). Today, I am going to give you a clear picture of what could be around the corner for homeowners and investors alike.
 
 **Macro vs. Micro.** In real estate, “macro” means the big picture across the U.S., while “micro” is our local market, like the DMV. And here’s the truth: Real estate changes locally, not on a national scale. What happens in Texas might not hit home here because the DMV has its own unique vibe. I know this market well because I live, own, invest, buy, and sell here. So, my advice is local-focused, even though national policies can shake things up.
 
