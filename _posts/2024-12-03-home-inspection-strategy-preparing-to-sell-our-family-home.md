@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Home Inspection Strategy: Preparing to Sell Our Family Home'
+title: 'Part 1: Should You Pre-Inspect Your Home Before Selling?'
 date: 2024-12-03 07:00:00
 tags:
   - Real Estate
@@ -13,7 +13,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: 5IJ8X5dQDVA
+youtube_code: 0IzyYyhEaqc
 ---
 {% include youtube.html %}
 
