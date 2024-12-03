@@ -1,8 +1,6 @@
 ---
 layout: post
-title: >-
-  Should you get a Home Inspection when you selling your home AJ’s Home Selling
-  Journey
+title: 'Part 2: Should You Pre-Inspect Your Home Before Selling?'
 date: 2024-12-03 07:00:00
 tags:
   - Real Estate
