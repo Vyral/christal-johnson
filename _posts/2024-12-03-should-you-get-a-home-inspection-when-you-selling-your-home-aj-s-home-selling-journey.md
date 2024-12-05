@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Part 2: Should You Pre-Inspect Your Home Before Selling?'
+title: AJ's and Christal's New Real Estate Docuseries - Selling Manassas - Episode 2
 date: 2024-12-03 07:00:00
 tags:
   - Real Estate
