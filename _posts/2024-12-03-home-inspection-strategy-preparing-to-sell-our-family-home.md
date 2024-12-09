@@ -4,7 +4,9 @@ title: AJ's and Christal's New Real Estate Docuseries - Selling Manassas - Episo
 date: 2024-12-03 07:00:00
 tags:
   - Real Estate
-excerpt: A pre-sale inspection helps you sell faster and for a higher price.
+excerpt: >-
+  Emotionally it was alot to sell my home, this process gave me a better
+  understanding for our clients that have emotional ties to their home. AJ
 enclosure:
 pullquote: >-
   This inspection helps me focus on the financial benefits while honoring the
@@ -25,4 +27,4 @@ He explains how getting a home inspection ahead of time can help sellers maximiz
 
 Make sure to watch until the end to learn the potential downsides and the critical reasons why skipping a home inspection could cost you.
 
-**Link:** [https://youtu.be/4DCban5PqT0](https://youtu.be/4DCban5PqT0){: target="_blank" rel="noopener"}<br>
+**Link:** [https://youtu.be/4DCban5PqT0](https://youtu.be/4DCban5PqT0){: target="_blank" rel="noopener"}<br><br>Thinking about selling a home in Manassas Virginia - Call us direct 703.991.7900
