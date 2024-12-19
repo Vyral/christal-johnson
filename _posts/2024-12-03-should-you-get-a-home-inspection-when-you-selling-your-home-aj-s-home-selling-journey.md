@@ -4,7 +4,9 @@ title: AJ's and Christal's New Real Estate Docuseries - Selling Manassas - Episo
 date: 2024-12-03 07:00:00
 tags:
   - Real Estate
-excerpt: Learn how a pre-sale inspection ensures a smooth, stress-free sale.
+excerpt: >-
+  Why in the HECK did AJ and Christal get a home inspection when they SOLD their
+  home in Manassas Virginia?
 enclosure:
 pullquote: You might think a pre-sale inspection is expensive, but it’s not.
 enclosure_type: video/mp4
@@ -16,8 +18,6 @@ youtube_code: nsWh96OE0Ws
 {% include youtube.html %}
 
 {% include excerpt.html %}
-
-Why in the HECK did AJ and Christal get a home inspection when they SOLD their home in Manassas Virginia?
 
 The \#1 question we get when someone is SELLING THEIR HOME?!?
 
