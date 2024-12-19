@@ -17,16 +17,16 @@ youtube_code: nsWh96OE0Ws
 
 {% include excerpt.html %}
 
-Have you ever wondered what buyers think when they see your home? I did too. This is why I’m doing something most sellers skip, which is a pre-sale home inspection. Here’s why it matters and how it can make or break your sale.
+Why in the HECK did AJ and Christal get a home inspection when they SOLD their home in Manassas Virginia?
 
-**The pain of hidden problems.** Selling a home is already emotional. After 12 years in this house, filled with memories of my kids growing up, I didn’t think it would be this hard. But the last thing I wanted was for hidden problems to derail my sale. Most sellers don’t realize that buyers’ inspections can uncover issues that cost time, money, and trust.
+The \#1 question we get when someone is SELLING THEIR HOME?!?
 
-**Why a pre-sale inspection matters.** I decided to get ahead of the game. A pre-sale inspection shows me what needs fixing before the buyers even step inside. This way, I can handle repairs on my terms—not during a stressful negotiation. It also lets me list my home confidently, knowing there won’t be surprises down the line.
+\#1 = "What price can I get for my home?"<br>\#2 = "What do I have to do to get my home ready for the market?"
 
-{% include pullquote.html %}
+The thing most home seller's don't know is most of the time and strategy is getting your home market ready. AND having the wrong strategy around getting your home ready for the market cost you THOUSANDS!
 
-**The benefits are clear.** First, I save time. When buyers see my inspection report, they won’t need to schedule their own. That speeds up the closing process. Second, it builds trust. Buyers appreciate knowing the home is in great shape. Finally, it helps me maximize my price. A well-prepared home stands out in the market.
+In this episode AJ's takes you through his process of deciding what needs to be done for his home. Will the market ready renovation budget grow from $20k to $30k?!? Check out part 2 of "Selling Manassas" with AJ Team Realty.
 
-**Balancing emotions and strategy.** Letting go of this home isn’t easy because it’s where my kids learned to walk, played with friends, and grew up. But as a real estate professional, I know I can’t let emotions stop me from making smart decisions. This inspection helps me focus on the financial benefits while honoring the memories we made here.
+If you are thinking about selling a home in Woodbridge Virginia or anywhere in the surrounding area
 
-If you’re selling your home, don’t skip this step. A pre-sale inspection can save you headaches, build trust with buyers, and help you get top dollar. It’s a small investment that pays off big. Take control of your sale today—start with an inspection**. If you need help with a pre-inspection, feel free to call or text me at (571) 210-1818.**
+Call us at [**703-991-7900**](703-991-7900){: target="_blank" rel="noopener"}
