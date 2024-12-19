@@ -21,11 +21,11 @@ Why in the HECK did AJ and Christal get a home inspection when they SOLD their h
 
 The \#1 question we get when someone is SELLING THEIR HOME?!?
 
-\#1 = "What price can I get for my home?"<br>\#2 = "What do I have to do to get my home ready for the market?"
+\#1 = “What price can I get for my home?”<br>\#2 = “What do I have to do to get my home ready for the market?”
 
-The thing most home seller's don't know is most of the time and strategy is getting your home market ready. AND having the wrong strategy around getting your home ready for the market cost you THOUSANDS!
+The thing most home seller’s don’t know is most of the time and strategy is getting your home market ready. AND having the wrong strategy around getting your home ready for the market cost you THOUSANDS!
 
-In this episode AJ's takes you through his process of deciding what needs to be done for his home. Will the market ready renovation budget grow from $20k to $30k?!? Check out part 2 of "Selling Manassas" with AJ Team Realty.
+In this episode AJ’s takes you through his process of deciding what needs to be done for his home. Will the market ready renovation budget grow from $20k to $30k?!? Check out part 2 of “Selling Manassas” with AJ Team Realty.
 
 If you are thinking about selling a home in Woodbridge Virginia or anywhere in the surrounding area
 
