@@ -41,6 +41,6 @@ In fact, one property even listed at $219 per square foot—and it has a pool. S
 
 You might think any agent will use the same strategy, or maybe you know someone who sells homes “on the side.” knows how to do all these things. But, the truth is not everyone can spot small details like this. Remember, selling in today’s market is all about the details. So, if your agent doesn’t have a strategy, you’ll leave money on the table.
 
-**If you're planning to sell your home and you are looking for an agent to help you ensure that you get top-dollar offers, you can call or text me at (571) 210-1818.** I'd be happy to help you craft a strategy to ensure you reach your real estate goals.
+**If you’re planning to sell your home and you are looking for an agent to help you ensure that you get top-dollar offers, you can call or text me at (571) 210-1818.** I’d be happy to help you craft a strategy to ensure you reach your real estate goals.
 
 &nbsp;
