@@ -29,4 +29,4 @@ Did you know most sellers skip pre-listing home inspections? It’s true—only 
 
 **Regular maintenance.** Even if you’re not selling, regular home maintenance saves money. I’ve seen $9 caulking repairs turn into $8,000 problems. Spending 1% of your home’s value each year on maintenance prevents costly surprises. Simple tasks like cleaning gutters, servicing HVAC systems, and sealing windows make a big difference.
 
-Don’t let hidden issues ruin your sale or cost you money. A pre-listing inspection gives you control, transparency, and peace of mind. **If you have questions or you need help with pre-listing inspection, feel free to call or text me at (571) 210-1818.** I'd love to help you ensure you are doing your pre-listing inspection the right way to ensure your home is in top condition.
+Don’t let hidden issues ruin your sale or cost you money. A pre-listing inspection gives you control, transparency, and peace of mind. **If you have questions or you need help with pre-listing inspection, feel free to call or text me at (571) 210-1818.** I’d love to help you ensure you are doing your pre-listing inspection the right way to ensure your home is in top condition.
