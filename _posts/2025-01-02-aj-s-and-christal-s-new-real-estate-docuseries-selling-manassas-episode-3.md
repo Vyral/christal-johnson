@@ -31,7 +31,7 @@ Today, we’re diving into the primary bathroom, a spot where hidden issues can 
 
 &nbsp;
 
-Your bathroom might seem fine, but hidden issues can add up. A thorough inspection finds these problems before they become costly headaches. If you’re buying or selling a home, don’t skip this step to ensure your home is safe, functional, and ready for you to enjoy. **If you’re planning a home inspection and you need help with it, you can call or text me at (571) 210-1818 and I'll help you ensure you are checking everything you need in your property.**
+Your bathroom might seem fine, but hidden issues can add up. A thorough inspection finds these problems before they become costly headaches. If you’re buying or selling a home, don’t skip this step to ensure your home is safe, functional, and ready for you to enjoy. **If you’re planning a home inspection and you need help with it, you can call or text me at (571) 210-1818 and I’ll help you ensure you are checking everything you need in your property.**
 
 <br>
 
