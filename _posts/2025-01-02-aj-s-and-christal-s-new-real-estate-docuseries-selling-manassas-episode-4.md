@@ -1,6 +1,6 @@
 ---
 layout: post
-title: AJ's and Christal's New Real Estate Docuseries - Selling Manassas - Episode 4
+title: AJ and Christal's New Real Estate Docuseries - Selling Manassas - Episode 4
 date: 2025-01-02 07:00:00
 tags:
   - Real Estate
