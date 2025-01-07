@@ -4,7 +4,7 @@ title: Why Picking the Right Real Estate Agent Matters in This Market
 date: 2025-01-01 07:00:00
 tags:
   - Real Estate
-excerpt: Learn why choosing the right agent is key to selling your home.
+excerpt: A knowledgeable agent can help sell your home faster and for more money.
 enclosure:
 pullquote: Remember, selling in today’s market is all about the details.
 enclosure_type: video/mp4
