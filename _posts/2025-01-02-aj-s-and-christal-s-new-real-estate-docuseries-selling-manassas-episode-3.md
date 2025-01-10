@@ -17,15 +17,17 @@ youtube_code: YP3lNXvZ6Y8
 
 {% include excerpt.html %}
 
-A home seller should get a home inspection for several reasons, including:
+When Christal and AJ decided to sell their home they got a home inspection first.
 
-* **Shows buyers you're serious**
+In this installment of Selling Manassas they walk through the issues that the home inspector found in their home.<br><br>A home seller should get a home inspection for several reasons, including:
 
-  A home inspection can help buyers feel confident that you're serious about selling your home.
+* **Shows buyers you’re serious**
+
+  A home inspection can help buyers feel confident that you’re serious about selling your home.
 
 * **Strengthens your selling power**
 
-  An inspection can help you list your home's updates and assets, which can make your home more appealing to buyers.
+  An inspection can help you list your home’s updates and assets, which can make your home more appealing to buyers.
 
 * **Prompts offers without inspection conditions**
 
@@ -35,6 +37,6 @@ A home seller should get a home inspection for several reasons, including:
 
   A home inspection can identify safety issues and maintenance problems that could cause problems for the buyer down the road.
 
-While a home doesn't need to pass an inspection to be sold, it's important to understand the condition of the property and the risks involved. Sellers aren't required to fix cosmetic issues, but it's usually in their best interest to make repairs to increase the likelihood of a sale.
+While a home doesn’t need to pass an inspection to be sold, it’s important to understand the condition of the property and the risks involved. Sellers aren’t required to fix cosmetic issues, but it’s usually in their best interest to make repairs to increase the likelihood of a sale.
 
 If you need a home inspection before you sell your home, reach out to us at 571-210-1818 or [connect@ajteamrealty.com](mailto:connect@ajteamrealty.com){: target="_blank" rel="noopener"}
