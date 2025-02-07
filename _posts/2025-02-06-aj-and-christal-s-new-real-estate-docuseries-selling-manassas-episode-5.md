@@ -4,7 +4,9 @@ title: AJ and Christal's New Real Estate Docuseries - Selling Manassas - Episode
 date: 2025-02-06 07:00:00
 tags:
   - Real Estate
-excerpt: Find out why the true value of a home isn’t in price.
+excerpt: >-
+  Selling a home isn’t just about money—it’s about honoring memories, preparing
+  for the next family, and leaving with no regrets.
 enclosure:
 pullquote: >-
   A house is more than walls and a roof because it is the backdrop for moments
