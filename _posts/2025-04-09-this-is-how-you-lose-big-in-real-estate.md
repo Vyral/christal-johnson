@@ -31,4 +31,4 @@ If you’re thinking about selling your home, there’s one thing you need to kn
 
 **Price to protect your equity.** When I recommend pricing a home aggressively, it’s not to sell it for less. It’s to protect the equity you’ve built. Chasing a higher number can backfire and lead to steep losses. It’s better to act early than to chase the market down. I took the equity from that sale and reinvested in real estate when prices were lower. That one decision put me in a stronger financial position years later. You can do the same by making smart choices now.
 
-If you’re thinking about selling, you can call or text me at **(571) 210-1818** or email me at [info@ajteamrealty.com](mailto:info@ajteamrealty.com). I’ll give you honest advice and personalized feedback to help you protect your investment and move forward with confidence.
+If you’re thinking about selling, you can call or text me at [**(571) 210-1818**](tel:5712101818){: target="_blank" rel="noopener"} or email me at [**info@ajteamrealty.com**](mailto:info@ajteamrealty.com). I’ll give you honest advice and personalized feedback to help you protect your investment and move forward with confidence.
