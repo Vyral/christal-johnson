@@ -37,4 +37,4 @@ To raise funds for this effort, we’re hosting our biggest event of the year th
 
 All proceeds go directly to supporting students and their families as we will use it to provide food, clothing, transportation, and other basic essentials. Every time someone works with our real estate group, a portion of that business supports Be a Blessing Foundation. For over 20 years, we’ve been doing this to give back to the place we call home because we believe in building a strong connection between business and community.
 
-No child should have to choose between learning and survival, and that’s why we encourage you to join us at our biggest event this year. If you have any questions, feel free to call or text us at **(571) 210-1818** or email \*\* \*\* [info@ajteamrealty.com.](mailto:info@ajteamrealty.com) \*\* \*\* We look forward to hearing from you!
+No child should have to choose between learning and survival, and that’s why we encourage you to join us at our biggest event this year. If you have any questions, feel free to call or text us at **(571) 210-1818** or email [info@ajteamrealty.com.](mailto:info@ajteamrealty.com) We look forward to hearing from you!
