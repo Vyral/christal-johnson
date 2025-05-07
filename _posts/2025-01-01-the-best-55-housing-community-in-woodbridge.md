@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Best 55+ Housing Community in Woodbridge
+title: The Best 55+ Housing Community
 date: 2025-01-01 07:00:00
 tags:
   - Real Estate
