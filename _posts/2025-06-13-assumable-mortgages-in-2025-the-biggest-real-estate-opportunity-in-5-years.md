@@ -43,6 +43,6 @@ Today, I’ll explain how assumable mortgages work, why they’re so valuable in
 
 09:47 - Reach out to us
 
-If you’re ready to explore the benefits of an assumable mortgage or want to find out if your current loan qualifies, you can call or text me at **(571) 210-1818** or email me at [**<u>info@ajteamrealty.com</u>**<u>. </u>](mailto:info@ajteamrealty.com)I’m here to walk you through the process, answer your questions, and help you take advantage of this powerful opportunity in today’s market.
+If you’re ready to explore the benefits of an assumable mortgage or want to find out if your current loan qualifies, you can call or text me at [**(571) 210-1818**](tel:5712101818){: target="_blank" rel="noopener"} or email me at [**<u>info@ajteamrealty.com</u>**<u>. </u>](mailto:info@ajteamrealty.com)I’m here to walk you through the process, answer your questions, and help you take advantage of this powerful opportunity in today’s market.
 
 &nbsp;
