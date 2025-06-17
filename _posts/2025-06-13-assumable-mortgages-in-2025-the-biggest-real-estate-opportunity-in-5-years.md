@@ -27,8 +27,6 @@ Today, I’ll explain how assumable mortgages work, why they’re so valuable in
 
 **For a full breakdown of the process and what steps to take next, watch the video above or use the timestamps to jump to the parts that matter most to you:**
 
-{% include pullquote.html %}
-
 00:00 - Intro
 
 00:20 - Assumable mortgages
