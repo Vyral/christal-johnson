@@ -33,11 +33,11 @@ Today, **we’ll explain why having an agent matters when buying new constructio
 
 01:11 - Smart buyers protect themselves with an agent
 
-01:43 - An agent sees what you can't
+01:43 - An agent sees what you can’t
 
 02:29 - Working with you vs. working for you
 
-03:17 - It's not about negotiation
+03:17 - It’s not about negotiation
 
 03:38 - Protection from construction pitfalls
 
@@ -53,4 +53,4 @@ Today, **we’ll explain why having an agent matters when buying new constructio
 
 12:17 - Reach out
 
-If you’re thinking about buying a new construction home or want to know more about how an agent can protect your investment, feel free to call or text me at [**(571) 210-1818**](tel:5712101818){: target="_blank" rel="noopener"} ** ** or email me at [info@ajteamrealty.com.](mailto:info@ajteamrealty.com) We'd be happy to answer your questions, walk you through the process, and make sure you have the right representation from start to finish.
+If you’re thinking about buying a new construction home or want to know more about how an agent can protect your investment, feel free to call or text me at [**(571) 210-1818**](tel:5712101818){: target="_blank" rel="noopener"} or email me at [**info@ajteamrealty.com**.](mailto:info@ajteamrealty.com) We’d be happy to answer your questions, walk you through the process, and make sure you have the right representation from start to finish.
