@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Hidden Costs of Selling Your Home On Your Own
+title: 'DIY vs. Professional: What Sellers Need to Know'
 date: 2025-09-18 07:00:00
 tags:
   - Real Estate
