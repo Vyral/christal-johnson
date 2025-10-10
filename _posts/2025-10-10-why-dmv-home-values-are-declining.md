@@ -55,6 +55,6 @@ Watch the full video above or use the timestamps below to jump to the topics tha
 
 12:14 - Reach out to us
 
-If you’d like to understand your home’s true value in today’s market or explore any of these eight opportunities, call or text The AJ Team at \*\* \*\* [**(571) 210-1818**](tel:5712101818){: target="_blank" rel="noopener"} \*\* \*\* or email [**<u>info@ajteamrealty.com</u>**<u>.</u>](mailto:info@ajteamrealty.com) We’d be happy to schedule a free 15-minute consultation, connect you with trusted vendors, or help you design a strategy tailored to your real estate goals.
+If you’d like to understand your home’s true value in today’s market or explore any of these eight opportunities, call or text The AJ Team at [**(571) 210-1818**](tel:5712101818){: target="_blank" rel="noopener"} or email [**<u>info@ajteamrealty.com</u>**<u>.</u>](mailto:info@ajteamrealty.com) We’d be happy to schedule a free 15-minute consultation, connect you with trusted vendors, or help you design a strategy tailored to your real estate goals.
 
 {% include pullquote.html %}
