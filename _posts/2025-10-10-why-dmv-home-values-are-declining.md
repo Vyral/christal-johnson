@@ -21,7 +21,7 @@ youtube_code: uA78ykhTGOo
 
 Many homeowners believe the DMV housing market can weather any cycle, but even the strongest markets experience turning points, and that time has arrived. Today, we’ll reveal what’s really happening beneath the surface.
 
-After navigating both boom and bust cycles for 25 years, we're seeing clear signs of correction, with values dipping anywhere from 1% to 2% in some neighborhoods to as much as 15% in parts of D.C.
+After navigating both boom and bust cycles for 25 years, we’re seeing clear signs of correction, with values dipping anywhere from 1% to 2% in some neighborhoods to as much as 15% in parts of D.C.
 
 Let me break down the main factors driving this shift and explain what it means for homeowners, sellers, and buyers across the region. More importantly, I’ll outline eight opportunities that can help you adapt, protect your equity, and even grow through this market transition.
 
@@ -55,6 +55,6 @@ Watch the full video above or use the timestamps below to jump to the topics tha
 
 12:14 - Reach out to us
 
-If you’d like to understand your home’s true value in today’s market or explore any of these eight opportunities, call or text The AJ Team at ** ** [**(571) 210-1818**](tel:5712101818){: target="_blank" rel="noopener"} ** ** or email [**<u>info@ajteamrealty.com</u>**<u>.</u>](mailto:info@ajteamrealty.com) We’d be happy to schedule a free 15-minute consultation, connect you with trusted vendors, or help you design a strategy tailored to your real estate goals.
+If you’d like to understand your home’s true value in today’s market or explore any of these eight opportunities, call or text The AJ Team at \*\* \*\* [**(571) 210-1818**](tel:5712101818){: target="_blank" rel="noopener"} \*\* \*\* or email [**<u>info@ajteamrealty.com</u>**<u>.</u>](mailto:info@ajteamrealty.com) We’d be happy to schedule a free 15-minute consultation, connect you with trusted vendors, or help you design a strategy tailored to your real estate goals.
 
 {% include pullquote.html %}
