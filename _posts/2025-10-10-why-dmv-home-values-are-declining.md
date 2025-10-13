@@ -31,7 +31,7 @@ Watch the full video above or use the timestamps below to jump to the topics tha
 
 00:38 - Market values are declining
 
-01:40 - The “Doge” deadline
+01:40 - The “DOGE” deadline
 
 03:18 - End of the 2022–2024 peak
 
