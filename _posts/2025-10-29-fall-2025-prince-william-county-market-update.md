@@ -8,7 +8,9 @@ excerpt: >-
   Inventory is growing, builders are pulling back, and demand remains steady.
   Here’s how these trends are shaping the local real estate landscape.
 enclosure:
-pullquote:
+pullquote: >-
+  While Washington D.C. and Stafford see signs of a buyer’s market, Prince
+  William County stands out for its steady demand and price stability.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
