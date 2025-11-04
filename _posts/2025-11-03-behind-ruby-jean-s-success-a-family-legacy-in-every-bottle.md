@@ -21,7 +21,7 @@ youtube_code: q1S4pmmiST0
 
 For many people, living a healthy lifestyle can feel difficult, especially when not-so-healthy choices are a lot more convenient and comes with a cheaper price. But it all comes to changing long-time habits.. Ruby Jean’s Juicery, founded by Chris Goode in Kansas City, offers a simple and easy way to improve your health through fresh, cold-pressed juice.
 
-**But the story behind Ruby Jean’s is about more than just a business;** it’s about family, legacy, and taking control of your health in a meaningful way.
+**But the story behind Ruby Jean’s is about more than just a business:** it’s about family, legacy, and taking control of your health in a meaningful way.
 
 Chris’s journey into the world of juicing started with his grandmother, Ruby Jean. Growing up, Ruby Jean was the heart of his family, showing love through soul food like fried chicken, macaroni and cheese, and cornbread. However, as Chris grew older, he saw the toll these foods took on her health.
 
