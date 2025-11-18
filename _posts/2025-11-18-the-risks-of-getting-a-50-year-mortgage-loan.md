@@ -29,4 +29,4 @@ A longer loan might save a few hundred dollars each month, but it can also doubl
 
 Buying a home doesn’t have to mean taking on decades of extra debt. With thoughtful planning and the right guidance, you can find affordable options that build real equity and long-term stability.
 
-If you’re thinking about buying and want clear, practical advice, you can call or text us at [**(571) 210-1818**](tel:5712101818){: target="_blank" rel="noopener"} ** ** or email us at [**info@ajteamrealty.com**](mailto:info@ajteamrealty.com). We’ll help you explore your best options and create a plan that fits your goals.
+If you’re thinking about buying and want clear, practical advice, you can call or text us at [**(571) 210-1818**](tel:5712101818){: target="_blank" rel="noopener"} or email us at [**info@ajteamrealty.com**](mailto:info@ajteamrealty.com). We’ll help you explore your best options and create a plan that fits your goals.
