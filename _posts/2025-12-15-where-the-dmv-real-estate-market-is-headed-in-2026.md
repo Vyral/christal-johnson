@@ -4,7 +4,10 @@ title: Where the DMV Real Estate Market is Headed in 2026
 date: 2025-12-15 07:00:00
 tags:
   - Real Estate
-excerpt: See which neighborhoods may shift so you can act before prices change.
+excerpt: >-
+  With rates stabilizing, home values splitting by neighborhood, and competition
+  shifting, this forecast shows how to approach buying, selling, or investing in
+  2026.
 enclosure:
 pullquote:
 enclosure_type: video/mp4
