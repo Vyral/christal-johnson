@@ -20,7 +20,7 @@ youtube_code: rl1-PsOFrXs
 
 {% include excerpt.html %}
 
-### [**Click here to purchase your tickets today!**](https://beablessingdmv.org/gala-2026){: target="_blank" rel="noopener"}
+### [**<u>Click here to purchase your tickets today!</u>**](https://beablessingdmv.org/gala-2026){: target="_blank" rel="noopener"}
 
 If you have ever wondered how close real need really is, the truth is that it often sits right in our own neighborhoods. It doesn’t always show itself in obvious ways, but it affects families who are struggling to put food on the table, children who are trying to focus in school while worrying about where they will sleep that night, and parents facing sudden emergencies with no clear place to turn for help.
 
