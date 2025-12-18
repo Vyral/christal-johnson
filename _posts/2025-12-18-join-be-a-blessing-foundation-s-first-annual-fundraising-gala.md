@@ -22,9 +22,9 @@ youtube_code: rl1-PsOFrXs
 
 If you have ever wondered how close real need really is, the truth is that it often sits right in our own neighborhoods. It doesn’t always show itself in obvious ways, but it affects families who are struggling to put food on the table, children who are trying to focus in school while worrying about where they will sleep that night, and parents facing sudden emergencies with no clear place to turn for help.
 
-These challenges exist all around us, and once you recognize them, it becomes clear why action matters. This is exactly why we started the Be a Blessing Foundation.
+These challenges exist all around us, and once you recognize them, it becomes clear why action matters. This is exactly why we started the *Be a Blessing Foundation*.
 
-The Be a Blessing Foundation is a registered 501(c)(3) nonprofit created to support families, children, and schools throughout Prince William County and the greater Northern Virginia area.
+The *Be a Blessing Foundation* is a registered 501(c)(3) nonprofit created to support families, children, and schools throughout Prince William County and the greater Northern Virginia area.
 
 From the very beginning, our mission has been straightforward and intentional. **We wanted to step in when help is needed most, act quickly, and provide real support without unnecessary delays.** Our focus has always been on meeting urgent needs in a way that feels personal, respectful, and effective.
 
@@ -40,9 +40,9 @@ Because of this approach and the continued support from our community, the found
 
 Now, we are taking an important next step and inviting you to be part of it.
 
-**On January 16, we will be hosting the first annual Be a Blessing Foundation fundraising gala.** This black-tie evening will feature a Vegas night theme and is designed to bring people together around a shared purpose. There will be table games, music, food, and time to connect with others who believe in supporting the local community. Here’s a quick rundown of the event:
+**On January 16, we will be hosting the first annual** ***Be a Blessing Foundation*** **fundraising gala.** This black-tie evening will feature a Vegas night theme and is designed to bring people together around a shared purpose. There will be table games, music, food, and time to connect with others who believe in supporting the local community. Here’s a quick rundown of the event:
 
-* **Event:** First Annual Be a Blessing Foundation Gala
+* **Event:** First Annual *Be a Blessing Foundation* Gala
 * **Date:** Friday, January 16
 * **Time:** 6:00 p.m. – 10:00 p.m.
 * **Location:** Lorton, Virginia
