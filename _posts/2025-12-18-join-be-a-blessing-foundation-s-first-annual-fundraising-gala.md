@@ -30,11 +30,11 @@ From the very beginning, our mission has been straightforward and intentional. *
 
 Over the years, the foundation has grown alongside the needs of our community. We have supported local schools, helped children through mentoring programs, assisted families during the holidays, and responded to both housing and food insecurity.
 
-{% include pullquote.html %}
-
 During the COVID-19 pandemic, the demand for help increased rapidly, and we expanded our efforts to ensure families had access to basic necessities. We also work closely with trusted local organizations such as ACTS Homeless Shelter and Streetlight Ministries to help keep food pantries stocked and critical resources available.
 
 When a need comes in, we do not place it on a waiting list. Within 24 hours, we take action. Emergencies don’t wait, and families can’t afford long delays when they’re already under pressure.
+
+{% include pullquote.html %}
 
 Because of this approach and the continued support from our community, the foundation has donated nearly a quarter of a million dollars over the past five to seven years directly back into Prince William County and the surrounding Northern Virginia communities.
 
