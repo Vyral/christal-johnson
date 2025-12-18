@@ -43,7 +43,7 @@ Now, we are taking an important next step and inviting you to be part of it.
 **On January 16, we will be hosting the first annual Be a Blessing Foundation fundraising gala.** This black-tie evening will feature a Vegas night theme and is designed to bring people together around a shared purpose. There will be table games, music, food, and time to connect with others who believe in supporting the local community. Here’s a quick rundown of the event:
 
 * **Event:** First Annual Be a Blessing Foundation Gala
-* **Date:** Wednesday, January 16
+* **Date:** Friday, January 16
 * **Time:** 6:00 p.m. – 10:00 p.m.
 * **Location:** Lorton, Virginia
 * **Dress Code:** Black-tie attire
@@ -53,7 +53,7 @@ This gala is our largest fundraiser of the year, and every ticket purchased and 
 
 **Attendance is encouraged, but it is not the only way to help.** Purchasing a ticket even if you cannot attend still supports the mission, and inviting friends, family members, coworkers, or neighbors helps extend our reach. The more people who get involved, the more quickly and effectively we can respond when needs arise.
 
-**This event also carries special meaning, as it coincides with Alan’s 50th birthday.** His wish is simple and sincere. He wants to give back to the community that has supported him for so many years, and this gala is a way to celebrate that milestone while focusing on something far greater than one person.
+**This event also carries special meaning, as it coincides with Allen’s 50th birthday.** His wish is simple and sincere. He wants to give back to the community that has supported him for so many years, and this gala is a way to celebrate that milestone while focusing on something far greater than one person.
 
 No family should have to face an emergency alone, and no child should struggle through the day without basic support.
 
