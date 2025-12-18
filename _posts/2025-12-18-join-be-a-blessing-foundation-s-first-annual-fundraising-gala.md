@@ -51,7 +51,7 @@ Now, we are taking an important next step and inviting you to be part of it.
 
 This gala is our largest fundraiser of the year, and every ticket purchased and every donation made directly support the foundation’s work. **All contributions, including tickets, are tax-deductible**, making this a meaningful option for those looking to make a year-end charitable contribution while having a direct impact on families and children in need.
 
-**Attendance is encouraged, but it is not the only way to help.** Purchasing a ticket even if you cannot attend still supports the mission, and inviting friends, family members, coworkers, or neighbors helps extend our reach. The more people who get involved, the more quickly and effectively we can respond when needs arise.
+**Attendance is encouraged, but it is not the only way to help.** Purchasing a ticket even if you cannot attend still supports the mission, and inviting friends, family members, coworkers, or neighbors helps extend our reach. The more people who get involved, the more quickly and effectively we can respond when needs arise.<br><br>[**Click here**](https://beablessingdmv.org/gala-2026){: target="_blank" rel="noopener"} to purchase your tickets today!
 
 **This event also carries special meaning, as it coincides with Allen’s 50th birthday.** His wish is simple and sincere. He wants to give back to the community that has supported him for so many years, and this gala is a way to celebrate that milestone while focusing on something far greater than one person.
 
