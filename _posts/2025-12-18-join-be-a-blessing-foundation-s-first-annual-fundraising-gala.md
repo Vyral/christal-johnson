@@ -20,6 +20,8 @@ youtube_code: rl1-PsOFrXs
 
 {% include excerpt.html %}
 
+### [**Click here to purchase your tickets today!**](https://beablessingdmv.org/gala-2026){: target="_blank" rel="noopener"}
+
 If you have ever wondered how close real need really is, the truth is that it often sits right in our own neighborhoods. It doesn’t always show itself in obvious ways, but it affects families who are struggling to put food on the table, children who are trying to focus in school while worrying about where they will sleep that night, and parents facing sudden emergencies with no clear place to turn for help.
 
 These challenges exist all around us, and once you recognize them, it becomes clear why action matters. This is exactly why we started the *Be a Blessing Foundation*.
@@ -35,8 +37,6 @@ During the COVID-19 pandemic, the demand for help increased rapidly, and we expa
 When a need comes in, we do not place it on a waiting list. Within 24 hours, we take action. Emergencies don’t wait, and families can’t afford long delays when they’re already under pressure.
 
 {% include pullquote.html %}
-
-### [**Click here to purchase your tickets today!**](https://beablessingdmv.org/gala-2026){: target="_blank" rel="noopener"}
 
 Because of this approach and the continued support from our community, the foundation has donated nearly a quarter of a million dollars over the past five to seven years directly back into Prince William County and the surrounding Northern Virginia communities.
 
