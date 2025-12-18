@@ -36,7 +36,7 @@ When a need comes in, we do not place it on a waiting list. Within 24 hours, we 
 
 {% include pullquote.html %}
 
-### [**Click here** to purchase your tickets today!](https://beablessingdmv.org/gala-2026){: target="_blank" rel="noopener"}
+### [**Click here to purchase your tickets today!**](https://beablessingdmv.org/gala-2026){: target="_blank" rel="noopener"}
 
 Because of this approach and the continued support from our community, the foundation has donated nearly a quarter of a million dollars over the past five to seven years directly back into Prince William County and the surrounding Northern Virginia communities.
 
