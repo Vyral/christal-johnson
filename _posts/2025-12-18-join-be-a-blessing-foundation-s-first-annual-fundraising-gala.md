@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Join Be a Blessing Foundation’s First Annual Fundraising Gala '
+title: Be a Blessing Foundation, Inc. Inaugural Fundraising Gala
 date: 2025-12-18 07:00:00
 tags:
 excerpt: >-
