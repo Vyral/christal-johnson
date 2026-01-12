@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Where the DMV Real Estate Market is Headed in 2026
+title: Where Does AJ Predict the DMV Housing Market Is Headed in 2026?
 date: 2025-12-15 07:00:00
 tags:
   - Real Estate
