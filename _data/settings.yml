@@ -20,10 +20,10 @@ client:
   title:
   license_number:
   about_markdown: >-
-    AJ Team Realty is comprised of a team of local real estate professionals
+    <p>AJ Team Realty is comprised of a team of local real estate professionals
     committed to selling some of the most desired homes in the Washington DC
-    Metro Area. Selling these "right addresses" is the mission of AJ Team
-    Realty. Let us know what you're looking for.
+    Metro Area. Selling these “right addresses” is the mission of AJ Team
+    Realty. Let us know what you’re looking for.</p>
   brand: AJ Team Realty
   brokerage: EXP Realty
   market: Washington DC
